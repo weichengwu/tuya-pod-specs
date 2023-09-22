@@ -14,7 +14,7 @@
 		"type": "zip"
 	},
 	"platforms": {
-		"ios": "9.0",
+		"ios": "11.0",
 		"watchos": "2.0"
 	},
 	"dependencies": {
